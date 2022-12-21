@@ -40,7 +40,7 @@ We need a script that wraps a word in paper (*), that is:
 
 Since we are going to return more than one line as a response, we are going to have to use `\n`, this symbol creates a newline.
 
-## Solution
+# Solution
 
 ### Iterate through the gift list
 
